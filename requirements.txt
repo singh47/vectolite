@@ -1,0 +1,15 @@
+# Core dependencies
+numpy>=1.21.0
+typer>=0.9.0
+rich>=13.0.0
+
+# Local embedding support (HuggingFace)
+sentence-transformers>=2.2.0
+torch>=1.9.0
+transformers>=4.21.0
+
+# Remote embedding support (OpenAI)
+openai>=1.0.0
+
+# Streamlit UI
+streamlit>=1.28.0
