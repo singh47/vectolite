@@ -263,7 +263,7 @@ logging.basicConfig(level=logging.DEBUG)
 
 ## License
 
-MIT License - see LICENSE file for details.
+GPL License - see LICENSE file for details.
 
 ## Contributing
 
