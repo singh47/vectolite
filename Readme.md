@@ -43,6 +43,8 @@ python vectolite.py stats
 ```bash
 streamlit run vectolite_ui.py
 ```
+<img width="2505" height="1181" alt="Screenshot 2025-07-20 at 14-13-42 Vectolite UI" src="https://github.com/user-attachments/assets/3a4352d5-bb2b-4df4-8137-4397f7dd6d1d" />
+
 
 ### Python API
 
